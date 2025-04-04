@@ -1,6 +1,6 @@
 #include<stdio.h>
 int calNumber(int n1,int n2);
-//Naphatsorn wattanon 6621600321 sec700
+
 void main(){
 	int Result1,Result2,Result3;
 	Result1 = calNumber(-5,20);
