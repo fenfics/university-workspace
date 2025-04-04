@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 100
-//Naphatsorn wattanon 6621600321 sec700
+
 void MultipleOfArray(float array_A[Maxsize][Maxsize],float array_B[Maxsize][Maxsize]);
 void CalAverage(float array_C[Maxsize][Maxsize]);
 void ShowArray(float array_A[Maxsize][Maxsize],float array_B[Maxsize][Maxsize],float array_C[Maxsize][Maxsize]);
