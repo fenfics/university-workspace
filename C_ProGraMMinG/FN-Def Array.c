@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 30
-//Naphatsorn wattanon 6621600321 sec700
+
 void show_array2D(int Row_2D, int Column_2D, float array_2D[Maxsize][Maxsize]);
 void show_array3D(int Depth_3D, int Row_3D, int Column_3D, float array_3D[Maxsize][Maxsize][Maxsize]);
 void set_array2D(int Row_2D, int Column_2D, float array_2D[Maxsize][Maxsize]);
