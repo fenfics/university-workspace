@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Naphatsorn wattanon 6621600321 sec700
+
 void main()
 {
     int num_1, num_2, range, sum;
