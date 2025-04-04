@@ -1,5 +1,5 @@
 #include <stdio.h>
-//naphatsorn wattanon 6621600321 sec 700
+
 struct Employee {
     char id[6];
     char name[41];
