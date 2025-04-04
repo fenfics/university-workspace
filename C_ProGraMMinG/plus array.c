@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 30
-//naphatsorn wattanon 6621600321 sec 700
+
 void main()
 {
     int size,i;
