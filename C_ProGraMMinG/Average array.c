@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 100
-//Naphatsorn wattanon 6621600321 sec700
+
 void main()
 {
     float array_A[Maxsize][Maxsize], array_B[Maxsize][Maxsize], array_C[Maxsize][Maxsize];
