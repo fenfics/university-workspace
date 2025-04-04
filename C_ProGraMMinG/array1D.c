@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 100
-//Naphatsorn wattanon 6621600321 sec 700
+
 void main()
 {
 	  int i,*p,size;
