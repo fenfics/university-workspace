@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Naphatson wattanon 6621600321 sec700
+
 void test();
 
 int global_num1 = 10;
