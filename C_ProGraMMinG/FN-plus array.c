@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 30
-//Naphatsorn wattanon 6621600321 sec700
+
 void set_valueOfArray(int size, int array[Maxsize]);
 void ShowArray(int size, int array[Maxsize]);
 void calArray(int size, int array_1[Maxsize], int array_2[Maxsize], int array_3[Maxsize]);
