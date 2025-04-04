@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 50
-//Naphatsorn wattanon 6621600321 sec700
+
 void setArray(int column, int array[Maxsize]);
 void ShowArray(int column, int array[Maxsize]);
 void swapArray(int *pos_first, int *pos_second, int pos1, int pos2);
