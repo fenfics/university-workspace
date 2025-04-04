@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define Maxsize 50
-//Naphatsorn wattanon 6621600321 sec700
+
 void main()
 {
 	int i, j, k, Row_3D, Column_3D, Depth_3D;
